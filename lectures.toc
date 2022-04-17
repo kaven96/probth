@@ -1,0 +1,6 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Классическая вероятность}{2}%
+\contentsline {subsection}{\numberline {1.1}Случайное событие, вероятность}{2}%
+\contentsline {subsection}{\numberline {1.2}Условная вероятность}{3}%
+\contentsline {subsubsection}{\numberline {1.2.1}Теорема умножения и независимость событий}{3}%
+\contentsline {subsubsection}{\numberline {1.2.2}Формула полной вероятности}{3}%
