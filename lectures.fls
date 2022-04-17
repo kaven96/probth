@@ -83,6 +83,7 @@ OUTPUT /home/kaven/MIPT/ProbTh/lectures.pdf
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /home/kaven/.texlive2019/texmf-var/fonts/tfm/lh/lh-t2a/larm1200.tfm
 INPUT /home/kaven/.texlive2019/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm
+INPUT /home/kaven/.texlive2019/texmf-var/fonts/tfm/lh/lh-t2a/lati1000.tfm
 INPUT /home/kaven/MIPT/ProbTh/lectures.aux
 INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
@@ -102,3 +103,4 @@ INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfti1000.pfb
