@@ -1,0 +1,55 @@
+\subsection{Определение случайного вектора}
+
+Можно дать два эквивалентных определения случайному вектору. Первое определение:
+
+\begin{definition}[случайый вектор]
+    Пусть $\xi_1, \ldots, \xi_n$ --- случайные величины, тогда $(\xi_1, \ldots, \xi_n)$ --- случайный вектор.
+\end{definition}
+
+Для введения второго определения рассмотрим понятие измеримости функций.
+
+\begin{definition}[борелевская $\sigma$-алгебра (борелеское множество)]
+    Это множества на числовой прямой (лучи, отрезки, точки), принадлежащие минимальной $\sigma$-алгебре над совокупностью всех сегментов $[a,b]$.
+\end{definition}
+
+Про сигма-алгебры можно почитать \href{https://tvims.nsu.ru/chernova/tv/lec/node9.html}{здесь}.
+
+\begin{definition}[измеримость]
+    Функция является $(\mathbb{R}, \mathcal{B}(R))$-измеримой, если 
+    \begin{math}
+        \forall B \in \mathcal{B} (\mathbb{R} ) \; f^{-1}(B) \in \mathcal{F}.
+    \end{math}
+\end{definition}
+
+Второе определение:
+
+\begin{definition}[случайный вектор]
+    Если $\xi: \Omega \rightarrow \mathbb{R}^k$ является $(\mathcal{F} | \mathcal{B} (\mathbb{R} ^k))$-измеримой функцией, то $\xi$ называется случайным вектором. 
+\end{definition}
+
+\subsection{Функции от случайного вектора}
+
+\begin{definition}[борелевская функция]
+    Числовая функция $f: \mathbb{R}^n \rightarrow \mathbb{R}^k$, заданная на прямой, называется \textit{борелевской}, если прообраз каждого борелевского множества есть борелевское множество, т. е. $f$ --- $(\mathcal{B} (\mathbb{R}^n | \mathcal{B} (\mathbb{R}^k))$-измеримая.
+\end{definition}
+
+Любая непрерывная функция является борелевской.
+
+Следствие: $\xi+\eta$, $\xi \cdot \eta$, $\xi-\eta$, $\frac{\xi}{\eta}$ --- случайные величины.
+
+\subsection{Функция распределения случайного вектора}
+
+\begin{definition}[распределение случайного вектора]
+    Распределением случайного вектора $\xi$ называется функция 
+    \begin{equation}
+        P_\xi : \mathcal{B} (\mathbb{R}^n) \rightarrow [0,1]
+    \end{equation}
+\end{definition}
+
+\subsection{Характеристическая функция}
+
+\subsection{Гауссовский вектор}
+
+\subsection{Многомерная ЦПТ}
+
+\newpage

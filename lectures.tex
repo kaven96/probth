@@ -1,4 +1,4 @@
-\documentclass{article}
+\documentclass{book}
  
 %Russian-specific packages
 %--------------------------------------
@@ -55,14 +55,18 @@
 \hyphenation{ма-те-ма-ти-ка вос-ста-нав-ли-вать}
 %--------------------------------------
  
+%Splitting document 
+%--------------------------------------
 \usepackage{import}
+%--------------------------------------
+
 
 \begin{document}
 
-\begin{abstract}
-    Конспект конспекта лекций курса Теории Вероятностей онлайн-магистратуры МФТИ по современной комбинаторике. \newline
-    Лекторы: Райгородский Андрей Михайлович, Жуковский Максим Евгеньевич.
-\end{abstract}
+% \begin{abstract}
+%     Конспект конспекта лекций курса Теории Вероятностей онлайн-магистратуры МФТИ по современной комбинаторике. \newline
+%     Лекторы: Райгородский Андрей Михайлович, Жуковский Максим Евгеньевич.
+% \end{abstract}
 
 \tableofcontents
  
@@ -72,9 +76,11 @@
 
 \import{sections/}{symbol_ref.tex}
 
-\section{Комбинаторика}
+\chapter{Комбинаторика}
 
 \import{sections/}{combinatorics.tex}
+
+\chapter{Теория вероятностей}
 
 \section{Классическая вероятность}
 
@@ -96,14 +102,42 @@
 
 \import{sections/}{distributions.tex}
 
+\section{Предельные теоремы}
+
+\import{sections/}{limit_thms.tex}
+
 \section{Независимые случайные величины и закон больших чисел}
 
 \import{sections/}{lln.tex}
 
-\section{Предельные теоремы}
-
 \section{Геометрическая вероятность}
 
+\import{sections/}{geom_probty.tex}
+
 \section{Колмогоровская аксиоматика}
+
+\import{sections/}{kolmogorov_axioms.tex}
+
+\section{Случайные векторы}
+
+\import{sections/}{rand_vectors.tex}
+
+\section{Условное математическое ожидание}
+
+\import{sections/}{conditional_exp.tex}
+
+\section{Условное распределение}
+
+\import{sections/}{conditional_distr.tex}
+
+\section{Марковские цепи}
+
+\import{sections/}{markov_chain.tex}
+
+\section{Олимпиадные задачи по теории вероятностей}
+
+\import{sections/}{kolmogorov_olimpyad.tex}
+
+\chapter{Математическая статистика}
 
 \end{document}
