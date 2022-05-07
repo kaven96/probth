@@ -1,0 +1,56 @@
+\subsection{Математическое ожидание}
+
+Математическое ожидание даёт оценку случайной величины <<в среднем>>, что часто бывает нужно в реальных задачах.
+
+\begin{definition}[Математическое ожидание]
+    Пусть $x_1, x_2, \ldots, x_n, \ldots$ --- возможные значения случайной величины $\xi$, а $p_1, p_2, \ldots, p_n, \ldots$ --- соответствующие им вероятности. \\
+    Если ряд     
+    \begin{equation}
+        \mathbb{E} \xi = \sum_{n=1}^\infty x_n p_n   
+    \end{equation}
+    
+    сходится абсолютно, то его сумма называется \textit{математическим ожиданием дискретной случайной величины}.
+
+    Для непрерывных с.в.:
+    \begin{equation}
+        \mathbb{E}\xi = \int x \cdot p(x) dx = \int x \cdot d F(x)
+    \end{equation}
+
+    \textbf{Мат. ожидание линейно:}
+
+    \begin{equation}
+        \mathbb{E}(c_1 \xi_1 + c_2 \xi_2) = c_1 \mathbb{E} \xi_1 + c_2 \mathbb{E} \xi_2 
+    \end{equation}
+\end{definition}
+
+\subsection{Неравенство Маркова}
+
+\begin{theorem}[(Маркова)]
+    Пусть $\xi$ принимает только неотрицательные значения. Пусть $a > 0$, тогда
+
+\begin{equation}
+    P(\xi \geq a) \leq \frac{\mathbb{E}\xi}{a}
+\end{equation}
+\end{theorem}
+
+\subsection{Дисперсия}
+
+Важное значение имеет то, насколько сильно случайные величины могут отличаться от своего математического ожидания. Для такой оценки можно использовать дисперсию и некоторые другие числовые характеристики.
+
+\begin{definition}[Дисперсия]
+    Дисперсия случайной величины:
+    \begin{equation}
+        \mathbb{D} \xi := \mathbb{E}(\xi - \mathbb{E})^2 = \mathbb{E} \xi^2 - (\mathbb{E}\xi)^2
+    \end{equation}
+\end{definition}
+
+\subsection{Неравенство Чебышёва}
+
+\begin{theorem}[Неравенство Чебышёва]
+    Пусть $\eta$ --- любая случайная величина. Пусть $b>0$. Тогда:
+    \begin{equation}
+        P(|\eta - \mathbb{E} \eta| \geq b) \leq \frac{\mathbb{D}\eta}{b^2}    
+    \end{equation}
+\end{theorem}
+
+\newpage

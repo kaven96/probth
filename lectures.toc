@@ -1,23 +1,28 @@
 \babel@toc {russian}{}
-\contentsline {section}{\numberline {1}Комбинаторика}{2}%
-\contentsline {section}{\numberline {2}Классическая вероятность}{2}%
-\contentsline {subsection}{\numberline {2.1}Случайное событие, вероятность}{2}%
-\contentsline {subsection}{\numberline {2.2}Условная вероятность}{3}%
-\contentsline {subsubsection}{\numberline {2.2.1}Теорема умножения и независимость событий}{3}%
-\contentsline {subsubsection}{\numberline {2.2.2}Формула полной вероятности}{3}%
-\contentsline {subsubsection}{\numberline {2.2.3}Формула Байеса}{4}%
-\contentsline {section}{\numberline {3}Схема испытаний Бернулли}{4}%
-\contentsline {section}{\numberline {4}Случайные величины}{4}%
-\contentsline {subsection}{\numberline {4.1}Вероятностные пространства в классическом случае и в схеме испытаний Бернулли}{4}%
-\contentsline {subsection}{\numberline {4.2}Определение случайной величины}{4}%
-\contentsline {subsection}{\numberline {4.3}Функция распределения случайной величины}{5}%
-\contentsline {section}{\numberline {5}Математическое ожидание и дисперсия}{5}%
-\contentsline {subsection}{\numberline {5.1}Математическое ожидание}{5}%
-\contentsline {subsection}{\numberline {5.2}Неравенство Маркова}{6}%
-\contentsline {subsection}{\numberline {5.3}Дисперсия}{6}%
-\contentsline {subsection}{\numberline {5.4}Неравенство Чебышёва}{6}%
-\contentsline {subsection}{\numberline {5.5}Абсолютно непрерывные случайные величины}{7}%
-\contentsline {section}{\numberline {6}Независимые случайные величины и закон больших чисел}{7}%
-\contentsline {section}{\numberline {7}Предельные теоремы}{7}%
-\contentsline {section}{\numberline {8}Геометрическая вероятность}{7}%
-\contentsline {section}{\numberline {9}Колмогоровская аксиоматика}{7}%
+\contentsline {section}{\numberline {1}Условные обозначения}{2}{section.1}%
+\contentsline {section}{\numberline {2}Комбинаторика}{3}{section.2}%
+\contentsline {section}{\numberline {3}Классическая вероятность}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Случайное событие, вероятность}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Условная вероятность}{5}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Теорема умножения и независимость событий}{5}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Формула полной вероятности}{5}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Формула Байеса}{5}{subsubsection.3.2.3}%
+\contentsline {section}{\numberline {4}Схема испытаний Бернулли}{6}{section.4}%
+\contentsline {section}{\numberline {5}Случайные величины}{7}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Вероятностные пространства в классическом случае и в схеме испытаний Бернулли}{7}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Определение случайной величины}{7}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Функция распределения случайной величины}{7}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Математическое ожидание и дисперсия}{9}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Математическое ожидание}{9}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Неравенство Маркова}{9}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Дисперсия}{9}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Неравенство Чебышёва}{10}{subsection.6.4}%
+\contentsline {section}{\numberline {7}Распределения случайных величин}{11}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Абсолютно непрерывные случайные величины}{11}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Распределения дискретных случайных величин}{11}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Распределения а.н.с.в.}{11}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Сингулярные распределения}{11}{subsection.7.4}%
+\contentsline {section}{\numberline {8}Независимые случайные величины и закон больших чисел}{12}{section.8}%
+\contentsline {section}{\numberline {9}Предельные теоремы}{13}{section.9}%
+\contentsline {section}{\numberline {10}Геометрическая вероятность}{13}{section.10}%
+\contentsline {section}{\numberline {11}Колмогоровская аксиоматика}{13}{section.11}%
