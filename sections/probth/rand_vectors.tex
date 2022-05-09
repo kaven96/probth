@@ -46,6 +46,27 @@
     \end{equation}
 \end{definition}
 
+Такая, что $\forall B \in \mathcal{B} (\mathbb{R}^n)$
+
+\begin{equation}
+    P_\xi (B) = P(\xi^{-1}(B)) = P(\xi \in B) 
+\end{equation}
+
+Простыми словами: вероятность того, что случайный вектор $\xi$ принадлежит диапазону $B \in \mathcal{B} (\mathbb{R}^n)$ можно обозначить как $P_\xi(B)$ и она вычисляется как вероятность прообраза $\xi^{-1}(B)$ --- то есть вероятность тех $\omega \in \Omega$ из которых вытекает соответствующая случайная величина.
+
+\begin{definition}[функция распределения случайного вектора]
+    Пусть $\xi$ --- случайный вектор, тогда его функция распределения $F_\xi : \mathbb{R}^n \to [0,1]$ равна:
+    \begin{equation}
+        F_\xi(x) = P(\xi_1 \leq x_1, \ldots, \xi_n \leq x_n) = P_\xi(\left(-\infty, x_1\right] \times \ldots \times \left(-\infty, x_n\right])
+    \end{equation}
+\end{definition}
+
+\begin{theorem}
+    Пусть $F_\xi$ --- функция распределения $\xi$, тогда существует единственное распределение вероятностей $Q$, такое, что $P_\xi=Q$.
+\end{theorem}
+
+\subsection{Свойства функции распределения случ. вектора}
+
 \subsection{Характеристическая функция}
 
 \subsection{Гауссовский вектор}

@@ -32,11 +32,27 @@
 \contentsline {subsection}{\numberline {2.10.1}Определение случайного вектора}{20}{subsection.2.10.1}%
 \contentsline {subsection}{\numberline {2.10.2}Функции от случайного вектора}{20}{subsection.2.10.2}%
 \contentsline {subsection}{\numberline {2.10.3}Функция распределения случайного вектора}{21}{subsection.2.10.3}%
-\contentsline {subsection}{\numberline {2.10.4}Характеристическая функция}{21}{subsection.2.10.4}%
-\contentsline {subsection}{\numberline {2.10.5}Гауссовский вектор}{21}{subsection.2.10.5}%
-\contentsline {subsection}{\numberline {2.10.6}Многомерная ЦПТ}{21}{subsection.2.10.6}%
+\contentsline {subsection}{\numberline {2.10.4}Свойства функции распределения случ. вектора}{21}{subsection.2.10.4}%
+\contentsline {subsection}{\numberline {2.10.5}Характеристическая функция}{21}{subsection.2.10.5}%
+\contentsline {subsection}{\numberline {2.10.6}Гауссовский вектор}{21}{subsection.2.10.6}%
+\contentsline {subsection}{\numberline {2.10.7}Многомерная ЦПТ}{21}{subsection.2.10.7}%
 \contentsline {section}{\numberline {2.11}Условное математическое ожидание}{22}{section.2.11}%
 \contentsline {section}{\numberline {2.12}Условное распределение}{23}{section.2.12}%
 \contentsline {section}{\numberline {2.13}Марковские цепи}{24}{section.2.13}%
 \contentsline {section}{\numberline {2.14}Олимпиадные задачи по теории вероятностей}{25}{section.2.14}%
 \contentsline {chapter}{\numberline {3}Математическая статистика}{27}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Структура курса}{27}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Виды сходимостей случайных векторов}{27}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Вероятностно-статистическая модель}{27}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Виды сходимостей случайных векторов}{28}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Теорема о наследовании сходимостей, лемма Слуцкого}{28}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Дельта-метод}{28}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Многомерный дельта-метод}{28}{subsection.3.2.5}%
+\contentsline {section}{\numberline {3.3}Параметрическая модель. Статистики и оценки}{29}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Методы нахождения оценок}{30}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Сравнение оценок}{30}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Оптимальные оценки}{30}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Байесовские оценки}{30}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Доверительные интервалы}{30}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Линейная регрессия}{30}{section.3.9}%
+\contentsline {section}{\numberline {3.10}Проверка статистических гипотез}{30}{section.3.10}%
