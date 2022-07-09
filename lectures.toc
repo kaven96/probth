@@ -1,4 +1,4 @@
-\babel@toc {russian}{}
+\babel@toc {russian}{}\relax 
 \contentsline {section}{\numberline {0.1}Условные обозначения}{3}{section.0.1}%
 \contentsline {chapter}{\numberline {1}Комбинаторика}{5}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Теория вероятностей}{7}{chapter.2}%
